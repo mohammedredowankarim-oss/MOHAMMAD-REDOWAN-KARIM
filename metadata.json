@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Edition",
+  "description": "An interactive editorial birthday keepsake, memory gallery, and candlelit celebration gift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
